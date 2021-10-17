@@ -17,5 +17,8 @@ Hi there, I'm Rutuja
     <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
     <a href="#"><img alt="Flutter" src="https://img.shields.io/badge/Flutter%20-E8E8E8.svg?logo=flutter&logoColor=blue"></a>
     <a href="#"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%2314354C.svg?logo=sql&logoColor=yellow"></a>
+    <a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-3DDC84?logo=eclipse&logoColor=white"></a>
+    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+    <a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"></a>
 </p>
 
