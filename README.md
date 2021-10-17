@@ -3,11 +3,11 @@
 Hi there, I'm Rutuja
 </h3>
 
-# I'm a Student, Developer, and Learner!!
+<h4>👩‍🎓 I'm a Student, Developer, and Learner!! </h4>
 
- 👩‍🎓 I’m a B.Tech, Computer Science Engineering student, interested in New Tech, Frontend Development, Java and Python. <br/> Willing to learn and explore new technologies and apply them in the various projects that could help to solve real life problems.
+ <p> 🎓 I’m a B.Tech, Computer Science Engineering student, <br/> interested in Web Development, Mobile application Development, Java and Python. <br/> Willing to learn and explore new technologies and apply them in the various projects that could help to solve real life problems. </p>
 
-# 🛠️ My favorite tools
+<h4> 🛠️ Langauges and Tools </h4>
 
 <p>
     <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java%20-%2314354C.svg?logo=java&logoColor=orange"></a>
@@ -26,7 +26,7 @@ Hi there, I'm Rutuja
     <a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"></a>
 </p>
 
-# 📊 Github Profile stats
+<h4> 📊 Github Profile stats </h4>
 
 <img src="https://github-readme-stats.vercel.app/api?username=RutujaLattimarde&show_icons=true&theme=radical"/>
 
